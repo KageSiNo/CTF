@@ -1,0 +1,11 @@
+# Cryptography
+- [New Keyboard](New%20Keyboard/) - 50 points
+- [Hidden Frequencies](Hidden%20Frequencies/) - 100 points
+- [Really Secure Algorithm](Really%20Secure%20Algorithm/) - 100 points
+- [Chessy](Chessy/) - 125 points
+- [Funky Factors](Funky%20Factors/) - 150 points
+- [Salty](Salty/) - 150 points
+- [A Fine Line](A%20Fine%20Line/) - 175 points
+- [Crappy Colonization Corp](Crappy%20Colonization%20Corp/) - 225 points
+- [Gray-Scott](Gray-Scott/) - 275 points
+- [Ehrenfest](Ehrenfest/) - 350 points

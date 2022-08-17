@@ -1,0 +1,14 @@
+# Forensics 
+- [Broken Image](Broken%20Image/) - 50 points
+- [My New Friend](My%20New%20Friend/) - 75 points
+- [Superglue](Superglue/) - 125 points
+- [.bcapng](bcapng/) - 150 points
+- [Blender Creation](Blender%20Creation/) - 150 points
+- [Gerbert's Secret](Gerbert's%20Secret/) - 150 points
+- [QRussian Dolls](QRussian%20Dolls/) - 150 points
+- [Zoinked Zip 1](Zoinked%20Zip%201/) - 150 points
+- [BCACTF 3.0: The Movie](BCACTF%203.0%20The%20Movie/) - 175 points
+- [.bcapng2](bcapng2/) - 200 points
+- [.bcapng2 2](bcapng2%202/) - 225 points
+- [Analog Horror](Analog%20Horror/) - 250 points
+- [Ode to a Replaced Cable](Ode%20to%20a%20Replaced%20Cable/) - 350 points
