@@ -2,6 +2,9 @@
 
 - [MALBORNE](#malborne)
 - [Tweeeet](#tweeeet)
+- [Tring Tring...](#tring-tring)
+- [OX9OR2](#ox9or2)
+- [Feel me](#feel-me)
 
 # MALBORNE
 ## Description
@@ -153,7 +156,7 @@ Flag: **SHELL{X0R_1S_R3VeR51BL3}**
 
 # Feel me
 ## Description
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](video.mp4 "Little red riding hood - Click to Watch!")
+[Video](video.mp4)
 
 ## Writeup
 Using: https://www.dcode.fr/braille-alphabet
